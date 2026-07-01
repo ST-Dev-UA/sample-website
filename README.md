@@ -2,7 +2,7 @@
 
 A fast, single-page marketing site for **QuickBite**, the most reliable way to get great food from local restaurants, delivered fast, accurately and affordably.
 
-## 🌟 Highlights
+## 🌟 Highlights Testing 1Jul26
 
 - 🍽️ **Three audiences, one page** — converts customers, restaurant partners and drivers.
 - ⚡ **Zero build, zero dependencies** — pure HTML, CSS and vanilla JS.
