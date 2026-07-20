@@ -1,4 +1,4 @@
-# 🍔 QuickBite — Marketing Website
+# 🍔 QuickBite ME — Marketing Website
 
 A fast, single-page marketing site for **QuickBite**, the most reliable way to get great food from local restaurants, delivered fast, accurately and affordably.
 
@@ -10,6 +10,8 @@ A fast, single-page marketing site for **QuickBite**, the most reliable way to g
 - ♿ **Works without JavaScript** — interactivity is progressive enhancement.
 - 📱 **Responsive** — looks great from phone to desktop.
 
+
+
 ## ℹ️ Features
 
 - Food order
@@ -20,7 +22,10 @@ A fast, single-page marketing site for **QuickBite**, the most reliable way to g
 - Driver partners
 - FAQs
 
+
+
 ## 🍔 Featured Brands
+
 - Crave
 - Stuff'd
 - Mr Bean
